@@ -1,0 +1,91 @@
+@font-face
+{
+    font-family: 'Bangers', cursive;
+}
+body
+{
+    background-color: cornflowerblue;
+}
+
+
+#navbarNav a
+{
+    color: white;
+    font-family: 'Bangers', cursive;
+}
+
+#navbarNav a:hover
+{
+    color: #FEBFD2;
+}
+
+.fa
+{
+    color: white;
+}
+
+#titre
+{
+    display: block;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+}
+
+#titre a
+{
+    font-size: 150%;
+}
+
+a:link
+{
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #FEBFD2;
+}
+
+.card-body
+{
+    border: none;
+    background: none;
+    color: white;
+}
+
+#collapseExample a
+{
+    color: #FF6347;
+    font-size: 100%;
+}
+
+#collapseExample a:hover
+{
+    color: coral;
+}
+
+#accueil
+{
+    margin-top: 15%;
+    background: dodgerblue;
+}
+
+h1
+{
+    font-size: 600%;
+    color: white;
+}
+
+.dropdown-menu
+{
+    border: none;
+    background: none;
+}
+
+.dropdown-menu a:hover
+{
+    background: none;
+}
+
+
+
