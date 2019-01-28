@@ -1,0 +1,177 @@
+@font-face
+{
+    font-family: 'Bangers', cursive;
+}
+
+.navbar
+{
+    margin-bottom: 5%;
+    /*background-color: cornflowerblue;*/
+}
+
+#navbarNav a
+{
+    color: white;
+    font-family: 'Bangers', cursive;
+}
+
+#navbarNav a:hover
+{
+    color: cornflowerblue;
+}
+
+a:link
+{
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: cornflowerblue;
+}
+
+h1
+{
+    font-size: 600%;
+    color: white;
+    font-family: 'Bangers', cursive;
+}
+
+h2
+{
+    font-size: 400%;
+    color: white;
+    font-family: 'Bangers', cursive;
+}
+
+.dropdown-menu
+{
+    border: none;
+    background: none;
+}
+
+.dropdown-menu a:hover
+{
+    background: none;
+}
+
+.card-body
+{
+    border: none;
+    background: none;
+    color: white;
+}
+
+#collapseExample a
+{
+    color: #F7230C;
+    font-family: 'Bangers', cursive;
+}
+
+#collapseExample a:hover
+{
+    color: orangered;
+}
+
+#accueil
+{
+    margin-top: 15%;
+}
+
+.fa
+{
+    color: white;
+}
+
+.fa:hover
+{
+    color: cornflowerblue;
+}
+
+#titre
+{
+    display: block;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+}
+
+#reseaux a
+{
+    font-size: 150%;
+}
+
+#about
+{
+    padding: 3%;
+   /* text-justify: JUSTIFIER LE TEEEEXTE */
+}
+
+p
+{
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 110%;
+}
+
+#wild
+{
+    font-family: 'Bangers', cursive;
+    color: #F7230C;
+}
+
+#wild:hover
+{
+    color: orangered;
+}
+
+.about
+{
+    color: #212529;
+}
+
+.about:hover
+{
+    color: cornflowerblue;
+}
+
+#bordel
+{
+    text-align: center;
+}
+
+body
+{
+    background-color: #515c70;
+}
+
+.bodyAbout
+{
+    background-image: url("../images/8.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.bodyCV
+{
+    background-color: white;
+}
+
+.bodyIndex
+{
+    background-image: url("../images/10.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#cv
+{
+    width: 90%;
+    height: 100%;
+}
+
+#TitreCV
+{
+    color: #515c70;
+}
+
+
