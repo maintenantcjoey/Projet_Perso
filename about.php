@@ -29,13 +29,13 @@
             <p>Ce site a été entièrement codé par mes petits doigts avec une architecture MVC. <br>
                 Je me ferai une joie de vous en parler et de vous montrer plus en détail le code si vous me donner la chance de faire mes preuves pendant un entretien.
             </p>
-            <br>
                 <div id="bordel">
                     <p>Et sinon:<br>
-                    My favorite TV show: <a href="https://www.google.com/search?client=ubuntu&channel=fs&q=brooklyn+99&ie=utf-8&oe=utf-8" class="about">Brooklyn Nine-Nine</a><br>
-                    My favorite Icecream: Pistachio<br>
-                    My favorite Miyazaki: <a href="https://www.google.com/search?client=ubuntu&channel=fs&q=chihori&ie=utf-8&oe=utf-8" class="about">Chihiro</a><br>
-                    My cat's name: Chacha<br>
+                        Mon vrai nom: Jessica<br>
+                        Ma série préférée: <a href="https://www.google.com/search?client=ubuntu&channel=fs&q=brooklyn+99&ie=utf-8&oe=utf-8" class="about">Brooklyn Nine-Nine</a><br>
+                        Ma glace préféré: Pistachio<br>
+                        Mon Miyazaki favori: <a href="https://www.google.com/search?client=ubuntu&channel=fs&q=chihori&ie=utf-8&oe=utf-8" class="about">Chihiro</a><br>
+                        Le nom de mon chat: Chacha<br>
                 ...</p>
                 </div>
         </div>

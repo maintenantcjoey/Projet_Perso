@@ -73,6 +73,17 @@ h2
     color: orangered;
 }
 
+#paris
+{
+    font-family: 'Bangers', cursive;
+    color: white;
+}
+
+#collapse
+{
+    background: none;
+}
+
 #accueil
 {
     margin-top: 15%;
@@ -174,4 +185,29 @@ body
     color: #515c70;
 }
 
+.card
+{
+    background-color: black;
+}
 
+.card-deck
+{
+    margin-bottom: 3%;
+}
+
+h4
+{
+    font-family: 'Bangers', cursive;
+}
+
+h5, ul
+{
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: 110%;
+}
+
+#rea
+{
+    margin-top: 3%;
+}

@@ -12,27 +12,23 @@
 
         <div class="container-fluid d-flex justify-content-center" id="accueil">
             <div id="titre">
-                <h1> Joey, Developer </h1>
+                <h1> Joey, Développeuse </h1>
 
-                <div id="reseaux">
-                    <a href="https://github.com/maintenantcjoey?tab=repositories" target="_blank" class="fa fa-github" id="gith"></a>
-                    <a href="https://twitter.com/MaintenantCJoey" target="_blank" class="fa fa-twitter" id="tweet"></a>
-                   <!-- <a href="https://www.linkedin.com/feed/" target="_blank" class="fa fa-linkedin-in"></a>  PK CA MARCHE PAS -->
-                    <a href="https://www.instagram.com/maintenantcestjoey/" target="_blank" class="fa fa-instagram" id="insta"></a>
-                </div>
-
-                <br>
-                <br>
-
-                <p>
-                    <button class="btn fa fa-angle-down" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"></button>
-                </p>
-
-                <div class="collapse" id="collapseExample">
-                    <div class="card card-body">
-                        <p>Etudiante en développement PHP/Symfony à la <a href="https://wildcodeschool.fr/" target="_blank"> Wild Code School</a>, je recherche actuellement un stage de 4mois</p>
+                    <div id="reseaux">
+                        <p id="paris">Paris</p>
+                        <a href="https://github.com/maintenantcjoey?tab=repositories" target="_blank" class="fa fa-github" id="gith"></a>
+                        <a href="https://twitter.com/MaintenantCJoey" target="_blank" class="fa fa-twitter" id="tweet"></a>
+                       <!-- <a href="https://www.linkedin.com/feed/" target="_blank" class="fa fa-linkedin-in"></a>  PK CA MARCHE PAS -->
+                        <a href="https://www.instagram.com/maintenantcestjoey/" target="_blank" class="fa fa-instagram" id="insta"></a>
                     </div>
-                </div>
+
+                    <button class="btn fa fa-angle-down" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"></button>
+
+                    <div class="collapse" id="collapseExample">
+                        <div class="card card-body" id="collapse">
+                            <p>Etudiante en développement PHP/Symfony à la <a href="https://wildcodeschool.fr/" target="_blank"> Wild Code School</a>, je recherche actuellement un stage de 4mois</p>
+                        </div>
+                    </div>
             </div>
         </div>
 

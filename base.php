@@ -22,18 +22,18 @@
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Features/realiations</a>
                         <div class="dropdown-menu" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 40px, 0px);">
                             <!-- x-placement="bottom-start" -->
-                            <a class="dropdown-item" href="#">Code</a>
-                            <a class="dropdown-item" href="#">Scrum</a>
+                            <a class="dropdown-item" href="#">Portfolio</a>
+                            <a class="dropdown-item" href="gestionProjet.php">Projets</a>
                         </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.php"> About </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#"> Lettre de Motivation </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="curiculum.php"> CV </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.php"> About </a>
                     </li>
                 </ul>
             </div>
