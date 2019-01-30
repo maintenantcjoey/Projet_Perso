@@ -18,7 +18,7 @@
         <div class="container" id="about" >
             <p>Nouvelle venue sur Paris, j'ai intensivement le développement PHP durant 5mois à la <a href="https://wildcodeschool.fr/" target="_blank" id="wild"> Wild Code School</a>, <br>
                 avant ça j'ai été vendeuse, en prêt-à-porter principalement. Et encore avant, j'était étudiante en droit, <br>
-                mais le formalisme et la rigidité du milieu m'a poussé à m'éloigner de ce domaine et à cherche ma voix ailleurs.<br><br>
+                mais la rigidité du milieu m'a poussée à m'éloigner de ce domaine et à cherche ma voie ailleurs.<br><br>
                 Le développement, en son sens général, laisse place à toutes créativités dans un cadre structuré.<br>
                 Et ça! C'est génial!<br>
                 De plus il offre tant de possibilités d'évolutions personnelles! Tout est possible.

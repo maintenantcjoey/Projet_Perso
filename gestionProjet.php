@@ -11,7 +11,7 @@
             <?php include ("base.php") ?>
 
             <div class="container-fluid d-flex justify-content-center">
-                <h2>Réalisation de projets</h2>
+                <h2>Dev, mais pas que</h2>
             </div>
 
             <div class="container" id="rea">
@@ -42,6 +42,7 @@
                                     <li>répartition des tâches</li>
                                     <li>gestion du backlog</li>
                                 </ul>
+                                <p>Répartission au sein de l'éuipe des différentes fonctions: chef de projet, scrum master...</p>
                         </div>
                     </div>
                 </div>
