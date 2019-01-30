@@ -51,7 +51,7 @@
                 <div class="card-deck">
                     <div class="card">
                         <img class="card-img-top" src="http://via.placeholder.com/640x360" alt="Card image cap">
-                        <div class="card-body">
+                        <div class="card-body bg-none">
                             <p>4- Projet professionnel avec client fictif:
                                 <ul>
                                     <li>travail en équipe Scrum</li>
