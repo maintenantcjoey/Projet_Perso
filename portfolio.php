@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="src/css/base.css">
     </head>
 
-        <body class="bodyProjet">
+        <body class="bodyFolio">
 
             <?php include ("base.php") ?>
 

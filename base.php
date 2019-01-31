@@ -15,8 +15,8 @@
     <div class="topnav" id="myTopnav">
         <a href="index.php" class="active" id="home"><i class="fa fa-angellist"></i></a>
         <a href="portfolio.php">Portfolio</a>
-        <a href="gestionProjet.php">Et plus..</a>
-        <a href="#motivation.php">Lettre de Motivation</a>
+        <a href="projet.php">Et plus..</a>
+        <a href="motivation.php">Lettre de Motivation</a>
         <a href="curiculum.php">CV</a>
         <a href="about.php">About</a>
         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -40,11 +40,11 @@
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Réaliations</a>
                         <div class="dropdown-menu"> <!-- style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 40px, 0px);" -->
                             <a class="dropdown-item" href="portfolio.php">Portfolio</a>
-                            <a class="dropdown-item" href="gestionProjet.php">Et plus..</a>
+                            <a class="dropdown-item" href="projet.php">Et plus..</a>
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"> Lettre de Motivation </a>
+                        <a class="nav-link" href="motivation.php"> Lettre de Motivation </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="curiculum.php"> CV </a>

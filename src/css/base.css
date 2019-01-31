@@ -286,6 +286,7 @@ body
     .bodyIndex
     {
         background-image: none;
+        background-color: #ff0783;
     }
 
     .bodyIndex #home
@@ -293,9 +294,30 @@ body
         display: none;
     }
 
+    .bodyFolio
+    {
+        background-color: #ff2e97;
+    }
+
+    .bodyProjet
+    {
+        background-color: #ff55aa;
+    }
+
+    .bodyMotivation
+    {
+        background-color: #ff7dbe;
+    }
+
+    .bodyCV
+    {
+        background-color: #ffa4d1;
+    }
+
     .bodyAbout
     {
         background-image: none;
+        background-color: #ffcbe5;
     }
 
     #titre h1
